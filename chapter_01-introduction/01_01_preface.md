@@ -14,6 +14,11 @@ as separate areas entirely for which machine learning was one small component.
 Neural networks, the antecedents of the deep learning models
 that we focus on in this book, were regarded as outmoded tools.
 
+# 서문
+### Translated with AWS Service
+  몇 년전, 주요 기업과 스타트업에서 지능형 제품과 서비스를 개발하는 딥 러닝 과학자들의 군단은 없었습니다. 우리 중 막내 (저자) 가 현장에 들어갔을 때, 기계 학습은 일간지의 헤드라인을 명령하지 않았습니다. 우리 부모님은 기계 학습이 무엇인지 전혀 몰랐습니다. 왜 우리가 의학이나 법에서 경력을 선호할지는 말할 것도 없습니다. 기계 학습은 실제 응용 프로그램의 좁은 집합과 미래 지향적 학문이었다. 그리고 음성 인식 및 컴퓨터 비전과 같은 응용 프로그램에는 많은 도메인 지식이 필요했기 때문에 종종 기계 학습이 하나의 작은 구성 요소였던 별도의 영역으로 간주되었습니다. 이 책에서 다루고 있는 딥 러닝 모델의 선행 신경망은 구식 도구로 간주되었습니다.
+불과 몇년 전에는, 
+
 
 In just the past five years, deep learning has taken the world by surprise,
 driving rapid progress in fields as diverse as computer vision,
